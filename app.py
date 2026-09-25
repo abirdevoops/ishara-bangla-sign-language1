@@ -106,3 +106,4 @@ elif page=='History':
 elif page=='About & Research':
     st.markdown('# About Ishara')
     st.markdown('''**Ishara — Bangla Sign Language Translator** is designed as a modular communication bridge.\n\n**Research pipeline**\n\nCamera → landmark extraction → temporal sequence model → sign classifier → context layer → Bangla sentence → text/voice.\n\n**Data governance**\n\nUse consented data, signer IDs that are pseudonymous, separate train/validation/test sets, and a signer-independent test split. Do not publish identifiable videos without permission.\n\n**Evaluation**\n\nReport accuracy, macro-F1, per-class precision/recall, confusion matrix, latency and signer-independent performance. Never label the demo mapping as measured AI performance.''')
+# Ishara UI update - 2026
