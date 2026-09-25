@@ -1,0 +1,4 @@
+sample_id,signer_id,sign_id,sign_name_bn,session_id,camera_angle,lighting,background,label,consent_status
+S001,P001,001,পানি,SES001,front,indoor,plain,পানি,approved
+S002,P001,002,খাবার,SES001,front,indoor,plain,খাবার,approved
+S003,P002,001,পানি,SES002,front,indoor,plain,পানি,approved
